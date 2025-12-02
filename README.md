@@ -1,6 +1,6 @@
 # 🌦 Weather Classification Using K-Nearest Neighbors (KNN)
 
-This project is a Machine Learning application that classifies weather conditions using the **K-Nearest Neighbors (KNN)** algorithm based on real-world meteorological data.
+This project is a **Machine Learning–based weather classification system** that predicts weather conditions using the **(KNN)** algorithm. The model is trained on **real-world meteorological data** to accurately classify different weather types such as **Sunny, Rainy, Cloudy, Humid, and Cold** based on atmospheric features.
 
 ---
 
@@ -13,6 +13,12 @@ To predict the **type of weather** (Sunny, Rainy, Cloudy, etc.) using historical
 - Atmospheric Pressure
 - UV Index
 - Visibility
+
+The main objective of this project is to:
+- Build a **reliable weather prediction system**
+- Use **historical weather data** to classify current conditions
+- Demonstrate the working of the **KNN algorithm** in a real-world application
+- Provide a **beginner-friendly Machine Learning project** for academic and practical use
 
 ---
 
