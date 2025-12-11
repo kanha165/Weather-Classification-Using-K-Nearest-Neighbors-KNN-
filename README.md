@@ -117,7 +117,8 @@ Smart Cities
 
 Kanha Patidar
 B.Tech (CSIT)
-Machine Learning Enthusiast
+Machine Learning inten at technorizen software solution. indore 
+
 
 
 
