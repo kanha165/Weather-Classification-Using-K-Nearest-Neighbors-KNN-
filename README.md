@@ -117,6 +117,7 @@ Smart Cities
 
 Kanha Patidar
 B.Tech (CSIT)
+3rd year 
 Machine Learning inten at technorizen software solution. indore 
 
 
